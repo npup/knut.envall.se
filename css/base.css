@@ -11,3 +11,35 @@ body {
 	background-color: #ececec;
 	color: #222;
 }
+
+#wrapper {
+	width: 60em;
+	margin: 0 auto;
+}
+
+#header {
+	padding: 1em 0;
+}
+
+#main-nav {
+	list-style-type: none;
+	padding: 0;
+	text-align: center;
+	font-size: 1.5em;
+}
+#main-nav li {
+	display: inline-block;
+}
+#main-nav li a {
+	display: block;
+	text-decoration: none;
+	margin: 0 .4em 0 .4em;
+}
+
+
+#content {
+	padding: 0 2em;
+}
+
+#footer {
+}

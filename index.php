@@ -1,16 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <title>Knut Envall</title>
-  <link rel="stylesheet" href="css/base.css" />
-</head>
-
-<body>
-<h1>Knut Envall</h1>
-
-<p>Välkommen till min sida!</p>
-
-
-</body>
-</html>
+<?php require("me.php"); ?>
