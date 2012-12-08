@@ -1,5 +1,5 @@
 <h3>
-	Jag är Knut.
+	Om mig själv
 </h3>
 	
 <p>
