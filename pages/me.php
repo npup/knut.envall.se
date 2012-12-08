@@ -3,7 +3,5 @@
 </h3>
 	
 <p>
-	
-hjsanjagärsexår
-	
+	hjsanjagärsexår
 </p>
